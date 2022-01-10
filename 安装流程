@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T03:53:26.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="orBdoRkZ7CiaWXrw81ii" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T03:55:19.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="B1WIrwxHdpFwzn0HemWm" version="15.9.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2098" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,31 +225,31 @@
         </mxCell>
         <mxCell id="XnRjq8R31uZ7zqukgn7A-57" value="请求获取本地插件列表" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="549" as="sourcePoint" />
-            <mxPoint x="403" y="549" as="targetPoint" />
+            <mxPoint x="237.5" y="570" as="sourcePoint" />
+            <mxPoint x="400.5" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XnRjq8R31uZ7zqukgn7A-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="415" y="560" as="sourcePoint" />
-            <mxPoint x="418" y="599" as="targetPoint" />
+            <mxPoint x="416" y="578" as="sourcePoint" />
+            <mxPoint x="414" y="609" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="560" />
-              <mxPoint x="460" y="599" />
+              <mxPoint x="458" y="578" />
+              <mxPoint x="458" y="609" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnRjq8R31uZ7zqukgn7A-59" value="遍历插件文件夹&lt;br&gt;(/root/.drive/plugins/)，&lt;br&gt;找到所有插件并组装信息" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="463" y="555" width="150" height="50" as="geometry" />
+        <mxCell id="XnRjq8R31uZ7zqukgn7A-59" value="访问插件管理目录&lt;br&gt;(/root/.drive/plugins/)，&lt;br&gt;遍历所有插件并组装信息" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466" y="570" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XnRjq8R31uZ7zqukgn7A-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="401" y="616" as="sourcePoint" />
-            <mxPoint x="236" y="616" as="targetPoint" />
+            <mxPoint x="405" y="627" as="sourcePoint" />
+            <mxPoint x="240" y="627" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XnRjq8R31uZ7zqukgn7A-61" value="&lt;font style=&quot;font-size: 11px&quot;&gt;本地插件列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="275" y="590" width="90" height="30" as="geometry" />
+          <mxGeometry x="279" y="601" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnRjq8R31uZ7zqukgn7A-62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
