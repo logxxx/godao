@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T03:10:34.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="TfbV8ufbMuqUbmpsbjMT" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T03:11:03.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="W3iHHoluVkH_bydhWouu" version="16.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1314" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGGzATIejPIDCHW2zAmx-20" value="&lt;font color=&quot;#ff3333&quot;&gt;在插件商店&lt;br&gt;看到此插件&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="WGGzATIejPIDCHW2zAmx-20" value="&lt;font color=&quot;#ff3333&quot;&gt;插件商店中&lt;br&gt;展示此插件&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="870" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
