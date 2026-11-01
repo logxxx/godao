@@ -38,7 +38,7 @@
           <mxGeometry height="80" width="120" x="690" y="240" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="ES" vertex="1">
-          <mxGeometry height="80" width="120" x="690" y="540" as="geometry" />
+          <mxGeometry height="80" width="120" x="690" y="520" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-16" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="IFkElz14hcMcErQxvqu_-15" value="">
           <mxGeometry relative="1" x="0.0065" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="APP客户端" vertex="1">
-          <mxGeometry height="80" width="120" x="690" y="100" as="geometry" />
+          <mxGeometry height="80" width="120" x="690" y="120" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-21" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="mysql" vertex="1">
-          <mxGeometry height="80" width="110" x="950" y="540" as="geometry" />
+          <mxGeometry height="80" width="110" x="950" y="520" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="口令管理平台&lt;br&gt;(for代理+产运）" vertex="1">
           <mxGeometry height="80" width="120" x="250" y="290" as="geometry" />
@@ -92,13 +92,13 @@
           <mxGeometry height="30" width="60" x="700" y="483" as="geometry" />
         </mxCell>
         <mxCell id="H4PBcJqPmPsRCLYrOLX1-5" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
-          <mxGeometry relative="1" x="-0.0365" as="geometry">
+          <mxGeometry relative="1" x="-0.013" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="280" />
-              <mxPoint x="1120" y="660" />
-              <mxPoint x="754.3" y="660" />
+              <mxPoint x="1120" y="640" />
+              <mxPoint x="754.3" y="640" />
             </Array>
-            <mxPoint x="754.32" y="620" as="targetPoint" />
+            <mxPoint x="754.32" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4PBcJqPmPsRCLYrOLX1-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="读列表" vertex="1">
