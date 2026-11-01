@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xPo3EnhrDv205O-g1dHt">
-    <mxGraphModel dx="1139" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="IFkElz14hcMcErQxvqu_-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="生态服务" vertex="1">
           <mxGeometry height="80" width="120" x="60" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="口令db" vertex="1">
+        <mxCell id="IFkElz14hcMcErQxvqu_-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="mysql" vertex="1">
           <mxGeometry height="80" width="120" x="160" y="520" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-10" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="IFkElz14hcMcErQxvqu_-3" value="">
@@ -37,7 +37,7 @@
         <mxCell id="IFkElz14hcMcErQxvqu_-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="生态网关" vertex="1">
           <mxGeometry height="80" width="120" x="690" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="口令ES" vertex="1">
+        <mxCell id="IFkElz14hcMcErQxvqu_-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="ES" vertex="1">
           <mxGeometry height="80" width="120" x="690" y="540" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-16" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="IFkElz14hcMcErQxvqu_-15" value="">
@@ -58,7 +58,7 @@
         <mxCell id="IFkElz14hcMcErQxvqu_-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="APP客户端" vertex="1">
           <mxGeometry height="80" width="120" x="690" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-21" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="口令DB" vertex="1">
+        <mxCell id="IFkElz14hcMcErQxvqu_-21" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="mysql" vertex="1">
           <mxGeometry height="80" width="110" x="950" y="540" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="口令管理平台&lt;br&gt;(for代理+产运）" vertex="1">
@@ -67,22 +67,19 @@
         <mxCell id="IFkElz14hcMcErQxvqu_-23" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="IFkElz14hcMcErQxvqu_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="缺点：DB变成业务瓶颈；" vertex="1">
-          <mxGeometry height="30" width="210" x="80" y="640" as="geometry" />
-        </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-25" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="IFkElz14hcMcErQxvqu_-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="binlog同步" vertex="1">
+        <mxCell id="IFkElz14hcMcErQxvqu_-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据同步" vertex="1">
           <mxGeometry height="30" width="60" x="860" y="540" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="读单条" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="500" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="写+读列表" vertex="1">
-          <mxGeometry height="30" width="60" x="350" y="510" as="geometry" />
+          <mxGeometry height="30" width="60" x="340" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="口令管理后台" vertex="1">
+        <mxCell id="IFkElz14hcMcErQxvqu_-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;口令管理平台&lt;/div&gt;&lt;div&gt;(for代理+产运）&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="945" y="240" as="geometry" />
         </mxCell>
         <mxCell id="IFkElz14hcMcErQxvqu_-33" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="IFkElz14hcMcErQxvqu_-21">
@@ -91,14 +88,8 @@
         <mxCell id="IFkElz14hcMcErQxvqu_-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="写" vertex="1">
           <mxGeometry height="30" width="60" x="945" y="483" as="geometry" />
         </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1.搭建生态网关&lt;div&gt;作为生态所有服务的唯一收口，统一对外提供接口能力；&lt;/div&gt;&lt;div&gt;同时，网关具有限流，降级策略，&lt;/div&gt;&lt;div&gt;当遇到高峰期大流量场景时，能够提前拦截流量，防止下游服务被流量击穿&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.mysql+es异构数据同步架构，实现读写职责分离&lt;/div&gt;&lt;div&gt;痛点：&lt;/div&gt;&lt;div&gt;1.查mysql，业务组合条件多，疯狂堆mysql联合索引，慢查询多&lt;/div&gt;&lt;div&gt;2.redis仅适合kv单点查询，无法满足ToB，To产运的的口令聚合查询&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;缺点：&lt;/div&gt;&lt;div&gt;是最终一致性，不是强一致，有秒级延迟；如果业务有查强一致数据的诉求，就无法接受这种差异；但考虑口令场景可以接受。&lt;/div&gt;&lt;div&gt;下一步：&lt;/div&gt;&lt;div&gt;做配套的数据校对，补偿，重建的兜底机制&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="400" x="710" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="IFkElz14hcMcErQxvqu_-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="读" vertex="1">
+        <mxCell id="IFkElz14hcMcErQxvqu_-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="读单条" vertex="1">
           <mxGeometry height="30" width="60" x="700" y="483" as="geometry" />
-        </mxCell>
-        <mxCell id="H4PBcJqPmPsRCLYrOLX1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="亮点：&lt;div&gt;1.读写解耦&lt;/div&gt;&lt;div&gt;2.检索能力扩展&lt;/div&gt;&lt;div&gt;3.建立了异构数据同步的标准化范式，为其他类似场景提供技术支撑，后续计划应用到结算收益报表开发中&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="410" x="710" y="950" as="geometry" />
         </mxCell>
         <mxCell id="H4PBcJqPmPsRCLYrOLX1-5" edge="1" parent="1" source="IFkElz14hcMcErQxvqu_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
           <mxGeometry relative="1" x="-0.0365" as="geometry">
